@@ -38,4 +38,4 @@ You will see in the terminal a log like this
 
 Then open your browser at the address http://localhost:3000. If you see the image below it works all fine and the server is ready.
 
-![express server running!](../node-rest-api/public/images/express-server.png "express server running")
+![express server running!](https://github.com/OpenTechConsult/node-rest-api/blob/master/public/images/express-server.png "express server running")
